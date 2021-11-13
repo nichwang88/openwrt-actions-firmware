@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build x86_64 Lean's OpenWrt
+name: Build x86_64 Qemu Lean's OpenWrt
 
 on:
   repository_dispatch:
